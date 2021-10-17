@@ -1,0 +1,12 @@
+{
+    "movies": [
+        {
+            "name": "Movie 1",
+            "description": "Lorem Ipsum Dolor Sit Amet 1"
+        },
+        {
+            "name": "Movie 2",
+            "description": "Lorem Ipsum Dolor Sit Amet 2"
+        }
+    ]
+}
