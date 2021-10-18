@@ -1,12 +1,50 @@
 {
     "movies": [
         {
-            "name": "Movie 1",
-            "description": "Lorem Ipsum Dolor Sit Amet 1"
-        },
-        {
-            "name": "Movie 2",
-            "description": "Lorem Ipsum Dolor Sit Amet 2"
+            "title": "1917",
+            "director": "Sam Mendes",
+            "release_date": "10 January 2020",
+            "runtime": 119,
+            "rating": 8.3,
+            "budget": 95000000,
+            "description": "April 1917, the Western Front. Two British soldiers are sent to deliver an urgent message to an isolated regiment. If the message is not received in time the regiment will walk into a trap and be massacred. To get to the regiment they will need to cross through enemy territory. Time is of the essence and the journey will be fraught with danger.",
+            "casts": [
+                {
+                    "actor": "Dean-Charles Chapman",
+                    "role": "Lance Corporal Blake",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNzM2Mjc2NzAzMV5BMl5BanBnXkFtZTgwMjE0MzAwNTE@._V1_QL75_UX140_CR0,1,140,140_.jpg"
+                },
+                {
+                    "actor": "George MacKay",
+                    "role": "Lance Corporal Schofield",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTQ4NjQ0NTEwOV5BMl5BanBnXkFtZTgwODQyMzIyMTI@._V1_QL75_UX140_CR0,12,140,140_.jpg"
+                },
+                {
+                    "actor": "Daniel Mays",
+                    "role": "Sergeant Sanders",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMDBkMDgwYzgtMTNjNC00MzY3LWJjOGItZjVhNGE5OTAyNjNiXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,1,140,140_.jpg"
+                },
+                {
+                    "actor": "Colin Firth",
+                    "role": "General Erinmore",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTUxMDMwMTI4MF5BMl5BanBnXkFtZTcwMzE2MzQxMw@@._V1_QL75_UX140_CR0,5,140,140_.jpg"
+                }
+            ],
+            "genres": [
+                "Action",
+                "Drama",
+                "War"
+            ],
+            "production_companies": [
+                "Dreamworks Pictures",
+                "Reliance Entertainment",
+                "New Republic Pictures"
+            ],
+            "photos": [
+                "https://nerdreactor.com/wp-content/uploads/2019/11/1917-poster.jpg",
+                "https://akcdn.detik.net.id/visual/2020/01/06/f69beb02-7298-4266-baf2-b9b1cfe7085c_169.jpeg?w=650",
+                "https://www.culturesonar.com/wp-content/uploads/2020/01/1917.jpg"
+            ]
         }
     ]
 }
