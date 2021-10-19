@@ -131,19 +131,47 @@
             "photo": "https://movies.mxdwn.com/wp-content/uploads/2020/05/Ip-Man-4.jpg"
         },
         {
-            "title": "",
-            "director": "",
-            "release_date": "",
-            "runtime": 0,
-            "rating": 0,
-            "description": "",
+            "title": "A Silent Voice: The Movie",
+            "director": "Naoko Yamada",
+            "release_date": "17 September 2016",
+            "runtime": 130,
+            "rating": 8.2,
+            "description": "The story revolves around Shôko Nishimiya, a grade school student who has impaired hearing. She transfers into a new school, where she is bullied by her classmates, especially Shôya Ishida. It gets to the point where she transfers to another school and as a result, Shôya is ostracized and bullied himself.",
             "genres": [
-                "",
-                "",
-                "",
-                ""
+                "Animation",
+                "Drama"
             ],
-            "photo": ""
+            "photo": "https://yunoya.id/wp-content/uploads/2020/11/A-Silent-Voice.jpg"
+        },
+        {
+            "title": "Monsters, Inc.",
+            "director": "Pete Docter",
+            "release_date": "2 November 2001",
+            "runtime": 92,
+            "rating": 8.1,
+            "description": "A city of monsters with no humans called Monstropolis centers around the city's power company, Monsters, Inc. The lovable, confident, tough, furry blue behemoth-like giant monster named James P. Sullivan (better known as Sulley) and his wisecracking best friend, short, green cyclops monster Mike Wazowski, discover what happens when the real world interacts with theirs in the form of a 2-year-old baby girl dubbed 'Boo'",
+            "genres": [
+                "Animation",
+                "Adventure",
+                "Comedy",
+                "Family",
+                "Fantasy"
+            ],
+            "photo": "https://i.kym-cdn.com/entries/icons/original/000/031/003/cover3.jpg"
+        },
+        {
+            "title": "Josee, the Tiger and the Fish",
+            "director": "Kôtarô Tamura",
+            "release_date": "12 July 2021",
+            "runtime": 99,
+            "rating": 7.9,
+            "description": "Tsuneo is a university student studying biology and in love with the ocean, avidly does recreational diving and working in a diving shop to fulfill his dream of diving abroad. One day an unexpected encounter with Josee, a sullen and demanding disabled young woman will take them through a journey that is compassionate, inspirational, loving, and filled with child-like innocence.",
+            "genres": [
+                "Animation",
+                "Drama",
+                "Romance"
+            ],
+            "photo": "https://cdn.idntimes.com/content-images/duniaku/post/20210308/img-20210308-131946-82f78366dd9f604dd3fe012fcf82d106_600x400.jpg"
         }
     ]
 }
