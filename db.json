@@ -45,6 +45,145 @@
                 "https://akcdn.detik.net.id/visual/2020/01/06/f69beb02-7298-4266-baf2-b9b1cfe7085c_169.jpeg?w=650",
                 "https://www.culturesonar.com/wp-content/uploads/2020/01/1917.jpg"
             ]
+        },
+        {
+            "title": "Interstellar",
+            "director": "Christopher Nolan",
+            "release_date": "7 November 2014",
+            "runtime": 169,
+            "rating": 8.6,
+            "budget": 165000000,
+            "description": "Earth's future has been riddled by disasters, famines, and droughts. There is only one way to ensure mankind's survival: Interstellar travel. A newly discovered wormhole in the far reaches of our solar system allows a team of astronauts to go where no man has gone before, a planet that may have the right environment to sustain human life.",
+            "casts": [
+                {
+                    "actor": "Matthew McConaughey",
+                    "role": "Cooper",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTg0MDc3ODUwOV5BMl5BanBnXkFtZTcwMTk2NjY4Nw@@._V1_QL75_UX140_CR0,21,140,140_.jpg"
+                },
+                {
+                    "actor": "Anne Hathaway",
+                    "role": "Brand",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTRhNzQ3NGMtZmQ1Mi00ZTViLTk3OTgtOTk0YzE2YTgwMmFjXkEyXkFqcGdeQXVyNzg5MzIyOA@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+                },
+                {
+                    "actor": "Jessica Chastain",
+                    "role": "Murph",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTU1MDM5NjczOF5BMl5BanBnXkFtZTcwOTY2MDE4OA@@._V1_QL75_UX140_CR0,11,140,140_.jpg"
+                },
+                {
+                    "actor": "Mackenzie Foy",
+                    "role": "Murph (10 Yrs)",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BYTIyMzExODgtNzllNy00OWQwLTlhM2QtMWU1ZTI2MjgwMTQxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_QL75_UX140_CR0,5,140,140_.jpg"
+                }
+            ],
+            "genres": [
+                "Adventure",
+                "Drama",
+                "Sci-Fi"
+            ],
+            "production_companies": [
+                "Paramount Pictures",
+                "Warner Bros",
+                "Legendary Entertainment"
+            ],
+            "photos": [
+                "https://ichef.bbci.co.uk/news/640/amz/worldservice/live/assets/images/2014/11/18/141118190103_interstellar_poster_640x360_getty_nocredit.jpg",
+                "https://media.tabloidbintang.com/files/thumb/9cb4fb978031a41159489638c6c96780.jpg/745",
+                "https://t-2.tstatic.net/tribunnewswiki/foto/bank/images/interstellar-2014.jpg"
+            ]
+        },
+        {
+            "title": "The Pianist",
+            "director": "Roman Polanski",
+            "release_date": "28 Maret 2003",
+            "runtime": 150,
+            "rating": 8.5,
+            "budget": 35000000,
+            "description": "In this adaptation of the autobiography 'The Pianist: The Extraordinary True Story of One Man's Survival in Warsaw, 1939-1945,' Wladyslaw Szpilman, a Polish Jewish radio station pianist, sees Warsaw change gradually as World War II begins. Szpilman is forced into the Warsaw Ghetto, but is later separated from his family during Operation Reinhard. From this time until the concentration camp prisoners are released, Szpilman hides in various locations among the ruins of Warsaw.",
+            "casts": [
+                {
+                    "actor": "Adrien Brody",
+                    "role": "Wladyslaw Szpilman",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMjI3ODkxMjU3OF5BMl5BanBnXkFtZTgwMTk2Njk3MTE@._V1_QL75_UX140_CR0,12,140,140_.jpg"
+                },
+                {
+                    "actor": "Thomas Kretschmann",
+                    "role": "Captain Wilm Hosenfeld",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTY1Njc5MzE1OF5BMl5BanBnXkFtZTcwMTc1NDM4Nw@@._V1_QL75_UX140_CR0,7,140,140_.jpg"
+                },
+                {
+                    "actor": "Frank Finlay",
+                    "role": "Father",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTM1MTc1MzExOV5BMl5BanBnXkFtZTcwNDI5MDkwOA@@._V1_QL75_UX140_CR0,23,140,140_.jpg"
+                },
+                {
+                    "actor": "Emilia Fox",
+                    "role": "Dorota",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMzMyMjcyNzA2Ml5BMl5BanBnXkFtZTcwNTM0MTA0MQ@@._V1_QL75_UX140_CR0,0,140,140_.jpg"
+                }
+            ],
+            "genres": [
+                "Biography",
+                "Drama",
+                "Music",
+                "War"
+            ],
+            "production_companies": [
+                "R.P. Productions",
+                "Heritage Films",
+                "Studio Babelsberg"
+            ],
+            "photos": [
+                "https://www.cultura.id/wp-content/uploads/2020/06/Adrien-Brody-The-Pianist.jpg",
+                "https://imgtoolkit.culturebase.org/?color=FFFFFF&quality=8&ar_ratio=1.3&format=jpg&file=http%3A%2F%2Fdata.heimat.de%2Fpics%2F3%2F6%2F9%2F3%2Fe%2Fpic_1505222298_3693e325e06cd1a4669d09ca2beba6a7.jpeg&do=cropOut&width=1200&height=780",
+                "https://cdns.klimg.com/resized/476x/p/thepianist_476.jpg"
+            ]
+        },
+        {
+            "title": "Avengers: Endgame",
+            "director": "Russo Brothers",
+            "release_date": "26 April 2019",
+            "runtime": 181,
+            "rating": 8.4,
+            "budget": 356000000,
+            "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos's actions and undo the chaos to the universe, no matter what consequences may be in store, and no matter who they face.",
+            "casts": [
+                {
+                    "actor": "Robert Downey Jr.",
+                    "role": "Tony Stark",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNzg1MTUyNDYxOF5BMl5BanBnXkFtZTgwNTQ4MTE2MjE@._V1_QL75_UX140_CR0,13,140,140_.jpg"
+                },
+                {
+                    "actor": "Chris Evans",
+                    "role": "Steve Rogers",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BMTU2NTg1OTQzMF5BMl5BanBnXkFtZTcwNjIyMjkyMg@@._V1_QL75_UX140_CR0,5,140,140_.jpg"
+                },
+                {
+                    "actor": "Mark Ruffalo",
+                    "role": "Bruce Banner",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BNWIzZTI1ODUtZTUzMC00NTdiLWFlOTYtZTg4MGZkYmU4YzNlXkEyXkFqcGdeQXVyNTExOTk5Nzg@._V1_QL75_UX140_CR0,12,140,140_.jpg"
+                },
+                {
+                    "actor": "Chris Hemsworth",
+                    "role": "Thor",
+                    "photo": "https://m.media-amazon.com/images/M/MV5BOTU2MTI0NTIyNV5BMl5BanBnXkFtZTcwMTA4Nzc3OA@@._V1_QL75_UX140_CR0,12,140,140_.jpg"
+                }
+            ],
+            "genres": [
+                "Action",
+                "Adventure",
+                "Drama",
+                "Sci-Fi"
+            ],
+            "production_companies": [
+                "Marvel Studios",
+                "Walt Disney Pictures"
+            ],
+            "photos": [
+                "https://img.tek.id/img/content/2020/01/03/24173/avengers-endgame-kembali-ungguli-avatar-rLuWTbVISy.jpg",
+                "https://www.mldspot.com/storage/generated/June2021/Avengers%20Endgame%20Dirilis%20Ulang%20dengan%20Adegan%20Tambahan.jpg",
+                "https://cdn.idntimes.com/content-images/community/2019/05/poster-avengers-endgame-183566c8974fa215ef7d9ca0bc53f3f8_600x400.jpg"
+            ]
         }
     ]
 }
