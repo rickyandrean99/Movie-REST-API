@@ -1,6 +1,7 @@
 {
     "movies": [
         {
+            "id": 1,
             "title": "1917",
             "director": "Sam Mendes",
             "release_date": "10 January 2020",
@@ -15,6 +16,7 @@
             "photo": "https://nerdreactor.com/wp-content/uploads/2019/11/1917-poster.jpg"
         },
         {
+            "id": 2,
             "title": "Interstellar",
             "director": "Christopher Nolan",
             "release_date": "7 November 2014",
@@ -29,6 +31,7 @@
             "photo": "https://ichef.bbci.co.uk/news/640/amz/worldservice/live/assets/images/2014/11/18/141118190103_interstellar_poster_640x360_getty_nocredit.jpg"
         },
         {
+            "id": 3,
             "title": "The Pianist",
             "director": "Roman Polanski",
             "release_date": "28 March 2003",
@@ -44,6 +47,7 @@
             "photo": "https://www.cultura.id/wp-content/uploads/2020/06/Adrien-Brody-The-Pianist.jpg"
         },
         {
+            "id": 4,
             "title": "Avengers: Endgame",
             "director": "Russo Brothers",
             "release_date": "26 April 2019",
@@ -59,6 +63,7 @@
             "photo": "https://img.tek.id/img/content/2020/01/03/24173/avengers-endgame-kembali-ungguli-avatar-rLuWTbVISy.jpg"
         },
         {
+            "id": 5,
             "title": "Your Name",
             "director": "Makoto Shinkai",
             "release_date": "7 April 2017",
@@ -74,6 +79,7 @@
             "photo": "https://cdn.medcom.id/dynamic/content/2018/01/09/813685/hm8sMwlDoz.jpg?w=480"
         },
         {
+            "id": 6,
             "title": "3 Idiots",
             "director": "Rajkumar Hirani",
             "release_date": "25 December 2009",
@@ -87,6 +93,7 @@
             "photo": "https://img-z.okeinfo.net/okz/500/library/images/2020/08/11/7wibfvrjh7xejv904t41_14555.jpg"
         },
         {
+            "id": 7,
             "title": "2001: A Space Odyssey",
             "director": "Stanley Kubrick",
             "release_date": "24 June 1970",
@@ -100,6 +107,7 @@
             "photo": "https://static01.nyt.com/images/2018/05/15/science/15SCI-OUTTHERE1/15SCI-OUTTHERE1-videoSixteenByNineJumbo1600.jpg"
         },
         {
+            "id": 8,
             "title": "Waterloo",
             "director": "Sergey Bondarchuk",
             "release_date": "29 October 1970",
@@ -116,6 +124,7 @@
             "photo": "https://m.media-amazon.com/images/M/MV5BNzdlZjVmMGEtOGVlMi00NmJjLTlmMWItYTExYTBlZjYzNGQ3XkEyXkFqcGdeQXVyMzEzNzgzNA@@._V1_.jpg"
         },
         {
+            "id": 9,
             "title": "Ip Man 4: The Finale",
             "director": "Wilson Yip",
             "release_date": "20 December 2019",
@@ -131,6 +140,7 @@
             "photo": "https://movies.mxdwn.com/wp-content/uploads/2020/05/Ip-Man-4.jpg"
         },
         {
+            "id": 10,
             "title": "A Silent Voice: The Movie",
             "director": "Naoko Yamada",
             "release_date": "17 September 2016",
@@ -144,6 +154,7 @@
             "photo": "https://yunoya.id/wp-content/uploads/2020/11/A-Silent-Voice.jpg"
         },
         {
+            "id": 11,
             "title": "Monsters, Inc.",
             "director": "Pete Docter",
             "release_date": "2 November 2001",
@@ -160,6 +171,7 @@
             "photo": "https://i.kym-cdn.com/entries/icons/original/000/031/003/cover3.jpg"
         },
         {
+            "id": 12,
             "title": "Josee, the Tiger and the Fish",
             "director": "Kôtarô Tamura",
             "release_date": "12 July 2021",
