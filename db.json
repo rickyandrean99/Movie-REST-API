@@ -6,13 +6,13 @@
             "release_date": "10 January 2020",
             "runtime": 119,
             "rating": 8.3,
-            "description": "April 1917, the Western Front. Two British soldiers are sent to deliver an urgent message to an isolated regiment. If the message is not received in time the regiment will walk into a trap and be massacred. To get to the regiment they will need to cross through enemy territory. Time is of the essence and the journey will be fraught with danger.",
+            "description": "April 1917, the Western Front. Two British soldiers are sent to deliver an urgent message to an isolated regiment. If the message is not received in time the regiment will walk into a trap and be massacred. To get to the regiment they will need to cross through enemy territory.",
             "genres": [
                 "Action",
                 "Drama",
                 "War"
             ],
-            "photos": "https://nerdreactor.com/wp-content/uploads/2019/11/1917-poster.jpg"
+            "photo": "https://nerdreactor.com/wp-content/uploads/2019/11/1917-poster.jpg"
         },
         {
             "title": "Interstellar",
@@ -31,10 +31,10 @@
         {
             "title": "The Pianist",
             "director": "Roman Polanski",
-            "release_date": "28 Maret 2003",
+            "release_date": "28 March 2003",
             "runtime": 150,
             "rating": 8.5,
-            "description": "In this adaptation of the autobiography 'The Pianist: The Extraordinary True Story of One Man's Survival in Warsaw, 1939-1945,' Wladyslaw Szpilman, a Polish Jewish radio station pianist, sees Warsaw change gradually as World War II begins. Szpilman is forced into the Warsaw Ghetto, but is later separated from his family during Operation Reinhard. From this time until the concentration camp prisoners are released, Szpilman hides in various locations among the ruins of Warsaw.",
+            "description": "In this adaptation of the autobiography 'The Pianist: The Extraordinary True Story of One Man's Survival in Warsaw, 1939-1945,' Wladyslaw Szpilman, a Polish Jewish radio station pianist, sees Warsaw change gradually as World War II begins.",
             "genres": [
                 "Biography",
                 "Drama",
@@ -49,7 +49,7 @@
             "release_date": "26 April 2019",
             "runtime": 181,
             "rating": 8.4,
-            "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos's actions and undo the chaos to the universe, no matter what consequences may be in store, and no matter who they face.",
+            "description": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos's actions and undo the chaos to the universe",
             "genres": [
                 "Action",
                 "Adventure",
@@ -57,6 +57,78 @@
                 "Sci-Fi"
             ],
             "photo": "https://img.tek.id/img/content/2020/01/03/24173/avengers-endgame-kembali-ungguli-avatar-rLuWTbVISy.jpg"
+        },
+        {
+            "title": "Your Name",
+            "director": "Makoto Shinkai",
+            "release_date": "7 April 2017",
+            "runtime": 106,
+            "rating": 8.4,
+            "description": "Mitsuha is the daughter of the mayor of a small mountain town. She's a straightforward high school girl who lives with her sister and her grandmother and has no qualms about letting it be known that she's uninterested in Shinto rituals or helping her father's electoral campaign.",
+            "genres": [
+                "Animation",
+                "Drama",
+                "Fantasy",
+                "Romance"
+            ],
+            "photo": "https://cdn.medcom.id/dynamic/content/2018/01/09/813685/hm8sMwlDoz.jpg?w=480"
+        },
+        {
+            "title": "3 Idiots",
+            "director": "Rajkumar Hirani",
+            "release_date": "25 December 2009",
+            "runtime": 170,
+            "rating": 8.4,
+            "description": "Farhan Qureshi and Raju Rastogi want to re-unite with their fellow collegian, Rancho, after faking a stroke aboard an Air India plane. Enroute, they encounter another student, Chatur Ramalingam, now a successful businessman, who reminds them of a bet they had undertaken 10 years ago.",
+            "genres": [
+                "Comedy",
+                "Drama"
+            ],
+            "photo": "https://img-z.okeinfo.net/okz/500/library/images/2020/08/11/7wibfvrjh7xejv904t41_14555.jpg"
+        },
+        {
+            "title": "2001: A Space Odyssey",
+            "director": "Stanley Kubrick",
+            "release_date": "24 June 1970",
+            "runtime": 149,
+            "rating": 8.3,
+            "description": "'2001' is a story of evolution. Sometime in the distant past, someone or something nudged evolution by placing a monolith on Earth (presumably elsewhere throughout the universe as well). Evolution then enabled humankind to reach the moon's surface, where yet another monolith is found, one that signals the monolith placers that humankind has evolved that far.",
+            "genres": [
+                "Adventure",
+                "Sci-Fi"
+            ],
+            "photo": "https://static01.nyt.com/images/2018/05/15/science/15SCI-OUTTHERE1/15SCI-OUTTHERE1-videoSixteenByNineJumbo1600.jpg"
+        },
+        {
+            "title": "Waterloo",
+            "director": "Sergey Bondarchuk",
+            "release_date": "29 October 1970",
+            "runtime": 123,
+            "rating": 7.3,
+            "description": "After defeating France and imprisoning Napoleon on Elba, ending two decades of war, Europe is shocked to find Napoleon has escaped and has caused the French Army to defect from the King back to him. The best of the British generals, the Duke of Wellington, beat Napolean's best generals in Spain and Portugal, but has never faced Napoleon.",
+            "genres": [
+                "Action",
+                "Biography",
+                "Drama",
+                "History",
+                "War"
+            ],
+            "photo": "https://m.media-amazon.com/images/M/MV5BNzdlZjVmMGEtOGVlMi00NmJjLTlmMWItYTExYTBlZjYzNGQ3XkEyXkFqcGdeQXVyMzEzNzgzNA@@._V1_.jpg"
+        },
+        {
+            "title": "Ip Man 4: The Finale",
+            "director": "Wilson Yip",
+            "release_date": "20 December 2019",
+            "runtime": 107,
+            "rating": 7.0,
+            "description": "Ip Man has to travel to San Francisco to find a new school for his son who just gets expelled. When he attempts to get a recommendation letter from the Chinese Benevolent Association, he finds that the martial arts masters are furious with one of Ip Man's students who teaches Kung Fu to Americans.",
+            "genres": [
+                "Action",
+                "Biography",
+                "Drama",
+                "History"
+            ],
+            "photo": "https://movies.mxdwn.com/wp-content/uploads/2020/05/Ip-Man-4.jpg"
         },
         {
             "title": "",
@@ -68,9 +140,10 @@
             "genres": [
                 "",
                 "",
+                "",
                 ""
             ],
-            "photos": ""
+            "photo": ""
         }
     ]
 }
